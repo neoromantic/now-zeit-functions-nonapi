@@ -1,0 +1,24 @@
+{
+  "name": "functions-bug",
+  "version": "0.4.0",
+  "keywords": [],
+  "license": "ISC",
+  "author": "Good IT Works",
+  "main": "index.js",
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^9.1.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "typescript": "^3.7.2"
+  },
+  "devDependencies": {
+    "test-listen": "^1.1.0"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}

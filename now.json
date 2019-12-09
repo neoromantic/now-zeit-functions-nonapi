@@ -1,0 +1,8 @@
+{
+  "name": "functions-bug",
+  "functions": {
+    "server/uploads.js": {
+      "memory": 512
+    }
+  }
+}
